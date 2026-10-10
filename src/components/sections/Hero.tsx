@@ -224,7 +224,7 @@ export default function Hero({ data, about }: HeroProps) {
               {/* Photo */}
               <div className="absolute inset-[6px] overflow-hidden bg-[var(--bg-elev)]">
                 <Image
-                  src="/pal.jpeg"
+                  src="/pal.png"
                   alt="Portrait of Pal Gabani"
                   fill
                   sizes="(min-width: 1024px) 340px, 300px"

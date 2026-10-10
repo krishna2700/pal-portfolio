@@ -51,7 +51,7 @@ export const metadata: Metadata = {
       "Building production multi-tenant SaaS and LLM-powered products. AI Full Stack Developer, Bengaluru.",
     type: "website",
     locale: "en_IN",
-    images: ["/pal.jpeg"],
+    images: ["/pal.png"],
   },
   twitter: {
     card: "summary_large_image",
